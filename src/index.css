@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+ 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+}
+.active{
+  color: #25d366;
+}
+.navbar-span .text-white {
+  color: white;
+}
+
+.navbar-span.text-black {
+  color: black;
+}
+button{
+  cursor: pointer;
+}
+
+
